@@ -1,0 +1,5 @@
+servlets\HolaServlet.class
+org\itson\webapplicationjsp\resources\JakartaEE10Resource.class
+models\Usuario.class
+org\itson\webapplicationjsp\JakartaRestConfiguration.class
+servlets\UsuarioServlet.class
